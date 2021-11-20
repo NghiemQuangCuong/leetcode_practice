@@ -1,4 +1,4 @@
-package com.company.EasyPalindrome;
+package com.company.Easy.EasyPalindrome;
 
 /**
  * Created by cuongnghiem on 20/11/2021
